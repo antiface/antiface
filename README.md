@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning more and more about Python, trying to learn how to make GUIs and work with Flask to make simple web apps; I've been reading the books Fluent Python, CPython Internals, and Neural Networks From Scratch in Python;
 - 👯 I’m looking to collaborate on open source projects on GitHub;
 - 📫 How to reach me: You can reach me on Twitter at [@antisignal](https://twitter.com/antisignal);
-- 📫 You can reach me at the same handle on Mastondon at [@antisignal](https://me.dm/@antisignal);
+- 📫 You can reach me at the same handle on Mastodon at [@antisignal](https://me.dm/@antisignal);
 - I'm also on [Substack](https://antisignal.substack.com/);
 - I have a [Personal Website](https://alexgagnon.com/) where you can get information about my *Projects*;
 - I am also write songs and do ambient, experimental sound design:
