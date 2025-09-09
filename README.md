@@ -5,6 +5,10 @@
 - 👯 I’m looking to collaborate on open source projects on GitHub;
 - 📫 How to reach me: You can reach me on Twitter at [@antisignal](https://twitter.com/antisignal);
 - 📫 You can reach me at the same handle on Mastodon at [@antisignal](https://me.dm/@antisignal);
+- 📫 I am also on the following websites:
+    - [@antisignal on Bluesky](https://bsky.app/profile/antisignal.bsky.social);
+    - [@antisignal on Medium](https://medium.com/@antisignal);
+    - [Alex Gagnon on Academia.edu, where I post essays and books](https://independent.academia.edu/AlexGagnon);
 - I'm also on [Substack](https://antisignal.substack.com/);
 - I have a [Personal Website](https://alexgagnon.com/) where you can get information about my *Projects*;
 - I have a [Professional Website for my Historiotheque Concept, My Art-Design-Research Laboratories](https://historiotheque.ca/);
