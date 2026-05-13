@@ -4,14 +4,14 @@
 - 🌱 I’m currently learning more and more about Python, trying to learn how to make GUIs and work with Flask to make simple web apps; I've been reading the books Fluent Python, CPython Internals, and Neural Networks From Scratch in Python;
 - 👯 I’m looking to collaborate on open source projects on GitHub;
 - 📫 How to reach me: You can reach me on Twitter at [@antisignal](https://twitter.com/antisignal);
-- 📫 You can reach me at the same handle on Mastodon at [@antisignal](https://me.dm/@antisignal);
+- 📫 You can reach me at the same handle on Mastodon at [@antisignal](https://mastodon.social/@antisignal);
 - 📫 I am also on the following websites:
     - [@antisignal on Bluesky](https://bsky.app/profile/antisignal.bsky.social);
     - [@antisignal on Medium](https://medium.com/@antisignal);
     - [Alex Gagnon on Academia.edu, where I post essays and books](https://independent.academia.edu/AlexGagnon);
 - I'm also on [Substack](https://antisignal.substack.com/);
 - I have a [Personal Website](https://alexgagnon.com/) where you can get information about my *Projects*;
-- I have a [Professional Website for my Historiotheque Concept, My Art-Design-Research Laboratories](https://historiotheque.ca/);
+- I have a [Professional Website for my Historiotheque Concept, My Art-Design-Research Laboratories](https://historiotheque.ca/) (*Is on standby at the moment...*);
 - I am also write songs and do ambient, experimental sound design:
     - [Songs Playlist on Youtube](https://www.youtube.com/playlist?list=PLrwvc22vCTExvwto9dEX7IdNc4wJwF5gS);
     - [Songs Playlist on SoundCloud](https://soundcloud.com/beautifulsignals/sets/songs-from-the-history-project);
@@ -27,31 +27,19 @@
 
 #### A LIST OF PREVIOUS OFFICIAL DECLARATIONS:
 
-YEAR ONE: [Production-Year 2016–2017](https://medium.com/the-painters-almanach/production-year-2016-2017-ef89fc701241)
-
-YEAR TWO: [Official Declaration of The Production-Year 2017–2018](https://medium.com/the-painters-almanach/official-declaration-of-the-production-year-2017-2018-1cc81705450b)
-
-YEAR THREE: [Official Declaration of The Production-Year 2018–2019](https://medium.com/the-painters-almanach/official-declaration-of-the-production-year-2018-2019-e12e1d8faec0)
-
-YEAR FOUR: [Official Declaration of Production-Year 2019–2020](https://medium.com/the-painters-almanach/official-declaration-of-production-year-2019-2020-604367d1c6e1)
-
-YEAR FIVE: [Official Declaration of Production-Year 2020–2021](https://medium.com/the-painters-almanach/official-declaration-of-production-year-2020-2021-9a1a0b1ed728)
-
-YEAR SIX: [Official Declaration of Production-Year 2021–2022](https://medium.com/the-painters-almanach/official-declaration-of-production-year-2021-2022-626e41b9e28f)
-
-YEAR SEVEN: [Official Declaration of Production-Year 2022–2023](https://medium.com/the-painters-almanach/official-declaration-of-production-year-2022-2023-cc4002ed88c)
-
-YEAR EIGHT: [Official Declaration of Production-Year 2023–2024](https://medium.com/the-painters-almanach/official-declaration-of-production-year-2023-2024-e136153b27ee)
-
-YEAR NINE: [Official Declaration of Production-Year 2024–2025](https://medium.com/the-painters-almanach/official-declaration-of-production-year-2024-2025-409de041379)
-
-YEAR TEN (IN ADVANCE): [Official Declaration of Production-Year 2025–2026](https://medium.com/the-painters-almanach/official-declaration-of-production-year-2025-2026-fd160f5fd970)
-
-YEAR ELEVEN (IN ADVANCE): [Official Declaration of Production-Year 2026–2027](https://medium.com/the-painters-almanach/official-declaration-of-production-year-2026-2027-ad6b26dfea0a)
-
-YEAR TWELVE (IN ADVANCE): [Official Declaration of Production-Year 2027–2028](https://medium.com/the-painters-almanach/official-declaration-of-production-year-2027-2028-67f0f7eb885b)
-
-YEAR THIRTEEN (TO COME...)
+- YEAR ONE: [Production-Year 2016–2017](https://medium.com/the-painters-almanach/production-year-2016-2017-ef89fc701241)
+- YEAR TWO: [Official Declaration of The Production-Year 2017–2018](https://medium.com/the-painters-almanach/official-declaration-of-the-production-year-2017-2018-1cc81705450b)
+- YEAR THREE: [Official Declaration of The Production-Year 2018–2019](https://medium.com/the-painters-almanach/official-declaration-of-the-production-year-2018-2019-e12e1d8faec0)
+- YEAR FOUR: [Official Declaration of Production-Year 2019–2020](https://medium.com/the-painters-almanach/official-declaration-of-production-year-2019-2020-604367d1c6e1)
+- YEAR FIVE: [Official Declaration of Production-Year 2020–2021](https://medium.com/the-painters-almanach/official-declaration-of-production-year-2020-2021-9a1a0b1ed728)
+- YEAR SIX: [Official Declaration of Production-Year 2021–2022](https://medium.com/the-painters-almanach/official-declaration-of-production-year-2021-2022-626e41b9e28f)
+- YEAR SEVEN: [Official Declaration of Production-Year 2022–2023](https://medium.com/the-painters-almanach/official-declaration-of-production-year-2022-2023-cc4002ed88c)
+- YEAR EIGHT: [Official Declaration of Production-Year 2023–2024](https://medium.com/the-painters-almanach/official-declaration-of-production-year-2023-2024-e136153b27ee)
+- YEAR NINE: [Official Declaration of Production-Year 2024–2025](https://medium.com/the-painters-almanach/official-declaration-of-production-year-2024-2025-409de041379)
+- YEAR TEN (IN ADVANCE): [Official Declaration of Production-Year 2025–2026](https://medium.com/the-painters-almanach/official-declaration-of-production-year-2025-2026-fd160f5fd970)
+- YEAR ELEVEN (IN ADVANCE): [Official Declaration of Production-Year 2026–2027](https://medium.com/the-painters-almanach/official-declaration-of-production-year-2026-2027-ad6b26dfea0a)
+- YEAR TWELVE (IN ADVANCE): [Official Declaration of Production-Year 2027–2028](https://medium.com/the-painters-almanach/official-declaration-of-production-year-2027-2028-67f0f7eb885b)
+- YEAR THIRTEEN (TO COME...)
 
 - - - - - - -
 
