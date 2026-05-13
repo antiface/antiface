@@ -22,6 +22,39 @@
 
 - - - - - - -
 
+### FOR FUTURE REFERENCE:
+*Every year for over a decade, I published what I called an __"Official Declaration of Production-Year"__ - covering a period always at least 1-2 years in advance - which is made up of the prospects, if you will, of what I will be working on at base in my interdisciplinary art-research practice. Instead of waiting until after the fact and doing a retrospective, I look forward into the future and give what I like to call __forward-looking statements for potential future stakeholders__. The idea is that I am trying as best as I can to make my daily practice __dependable__. It also leaves a kind of __audit trail__ which I find helps keep me __accountable__. Without further ado, here are the last 12 years' worth of Official Declarations of Production-Year: *
+
+#### A LIST OF PREVIOUS OFFICIAL DECLARATIONS:
+
+YEAR ONE: [Production-Year 2016–2017](https://medium.com/the-painters-almanach/production-year-2016-2017-ef89fc701241)
+
+YEAR TWO: [Official Declaration of The Production-Year 2017–2018](https://medium.com/the-painters-almanach/official-declaration-of-the-production-year-2017-2018-1cc81705450b)
+
+YEAR THREE: [Official Declaration of The Production-Year 2018–2019](https://medium.com/the-painters-almanach/official-declaration-of-the-production-year-2018-2019-e12e1d8faec0)
+
+YEAR FOUR: [Official Declaration of Production-Year 2019–2020](https://medium.com/the-painters-almanach/official-declaration-of-production-year-2019-2020-604367d1c6e1)
+
+YEAR FIVE: [Official Declaration of Production-Year 2020–2021](https://medium.com/the-painters-almanach/official-declaration-of-production-year-2020-2021-9a1a0b1ed728)
+
+YEAR SIX: [Official Declaration of Production-Year 2021–2022](https://medium.com/the-painters-almanach/official-declaration-of-production-year-2021-2022-626e41b9e28f)
+
+YEAR SEVEN: [Official Declaration of Production-Year 2022–2023](https://medium.com/the-painters-almanach/official-declaration-of-production-year-2022-2023-cc4002ed88c)
+
+YEAR EIGHT: [Official Declaration of Production-Year 2023–2024](https://medium.com/the-painters-almanach/official-declaration-of-production-year-2023-2024-e136153b27ee)
+
+YEAR NINE: [Official Declaration of Production-Year 2024–2025](https://medium.com/the-painters-almanach/official-declaration-of-production-year-2024-2025-409de041379)
+
+YEAR TEN (IN ADVANCE): [Official Declaration of Production-Year 2025–2026](https://medium.com/the-painters-almanach/official-declaration-of-production-year-2025-2026-fd160f5fd970)
+
+YEAR ELEVEN (IN ADVANCE): [Official Declaration of Production-Year 2026–2027](https://medium.com/the-painters-almanach/official-declaration-of-production-year-2026-2027-ad6b26dfea0a)
+
+YEAR TWELVE (IN ADVANCE): [Official Declaration of Production-Year 2027–2028](https://medium.com/the-painters-almanach/official-declaration-of-production-year-2027-2028-67f0f7eb885b)
+
+YEAR THIRTEEN (TO COME...)
+
+- - - - - - -
+
 This site and its contents are part of an ongoing research-creation project exploring the intersections of art, history, and philosophy. All works are offered in good faith as contributions to public discourse and aesthetic reflection. The responsibility for interpretation remains with each participant in that dialogue.
 
-[A.G. (c) 2025. ![A.G. (c) 2025. All Rights Reserved](https://historiotheque.files.wordpress.com/2016/11/ag_signature_official_2015_50px_cropped.jpg) All Rights Reserved.](http://alexgagnon.com)
+[A.G. (c) 2026. ![A.G. (c) 2026. All Rights Reserved](https://historiotheque.files.wordpress.com/2016/11/ag_signature_official_2015_50px_cropped.jpg) All Rights Reserved.](http://alexgagnon.com)
