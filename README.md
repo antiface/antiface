@@ -18,7 +18,9 @@
     - [Ambient, experimental sound design blog on Tumblr](https://beautifulsignals.tumblr.com/);
 - [I also have a Playlist on Youtube with some of my Philosophical Lectures, a.k.a. _*Extreme Philosophy*_](https://www.youtube.com/playlist?list=PLrwvc22vCTEwOF2j5nPaksODyCPjE3XQU);
 - ⚡ Fun fact: As I said above, I'm an interdisciplinary artist-researcher. That's what I was in my previous life before learning computer science and programming; I'm on my 13th year of programming and it's funny because I've been programming for over a decade and I don't have much to show for it; mostly I just understand the Python language (Internals, etc.) really well and can read and write code fluently, even if I don't have any major projects to show for (I spend hours reading other people's code on GitHub as part of my daily disciplinary practice; I think *Reading Code* is too often overlooked);
-- Most of my repositories on this GitHub account don't actually contain code, just ideas and concepts, conceptual systems, *Art-Research Projects*, novels ,etc.; if you want to see an Index of my repositories check [Index](https://github.com/antiface/Index);
+- Most of my repositories on this GitHub account don't actually contain code, just ideas and concepts, conceptual systems, *Art-Research Projects*, novels ,etc.;
+
+# If you want to see an Index of my repositories check [Index](https://github.com/antiface/Index);
 
 - - - - - - -
 
@@ -39,7 +41,7 @@
 - YEAR TEN (IN ADVANCE): [Official Declaration of Production-Year 2025–2026](https://medium.com/the-painters-almanach/official-declaration-of-production-year-2025-2026-fd160f5fd970)
 - YEAR ELEVEN (IN ADVANCE): [Official Declaration of Production-Year 2026–2027](https://medium.com/the-painters-almanach/official-declaration-of-production-year-2026-2027-ad6b26dfea0a)
 - YEAR TWELVE (IN ADVANCE): [Official Declaration of Production-Year 2027–2028](https://medium.com/the-painters-almanach/official-declaration-of-production-year-2027-2028-67f0f7eb885b)
-- YEAR THIRTEEN (TO COME...)
+- YEAR THIRTEEN (IN ADVANCE): [Official Declaration of Production-Year 2028-2029](https://medium.com/the-painters-almanach/official-declaration-of-production-year-2028-2029-b23d06c92f9c)
 
 - - - - - - -
 
