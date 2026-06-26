@@ -20,7 +20,7 @@
 - ⚡ Fun fact: As I said above, I'm an interdisciplinary artist-researcher. That's what I was in my previous life before learning computer science and programming; I'm on my 13th year of programming and it's funny because I've been programming for over a decade and I don't have much to show for it; mostly I just understand the Python language (Internals, etc.) really well and can read and write code fluently, even if I don't have any major projects to show for (I spend hours reading other people's code on GitHub as part of my daily disciplinary practice; I think *Reading Code* is too often overlooked);
 - Most of my repositories on this GitHub account don't actually contain code, just ideas and concepts, conceptual systems, *Art-Research Projects*, novels ,etc.;
 
-# If you want to see an Index of my repositories check [Index](https://github.com/antiface/Index);
+# If you want to see an Index of my repositories check [Index](https://github.com/antiface/Index).
 
 - - - - - - -
 
